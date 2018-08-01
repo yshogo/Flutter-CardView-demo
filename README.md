@@ -1,8 +1,5 @@
 # general_material_app
 
-A new Flutter application.
+このリポジトリは下記の記事を書いた時に使用したコードです
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+https://note.mu/shogoyamada/n/n912c7ba1ddf4
