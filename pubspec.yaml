@@ -1,0 +1,31 @@
+name: general_material_app
+description: A new Flutter application.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+     - assets/screen0.jpg
+     - assets/screen1.jpg
+     - assets/screen2.jpg
+     - assets/screen3.jpg
+     - assets/screen4.jpg
+     - assets/screen5.jpg
+     - assets/screen6.jpg
+     - assets/screen7.jpg
+     - assets/screen8.jpg
+     - assets/screen9.jpg
+
+
